@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+package common;
+option go_package = "github.com/Sam12121/agent-plugin-grpc/proto";
+
+message Empty {}
